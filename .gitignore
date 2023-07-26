@@ -1,0 +1,6 @@
+.vs
+cert_key.p12
+private.key
+public.cer
+*/bin
+*/obj
